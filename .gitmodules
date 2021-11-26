@@ -1,0 +1,6 @@
+[submodule "congo"]
+	path = congo
+	url = git@github.com:jpanther/congo.git
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
