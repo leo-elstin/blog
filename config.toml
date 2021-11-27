@@ -1,4 +1,4 @@
-baseURL = 'http://leo-elstin.github.io/blog/'
+baseURL = 'http://letsflutter.in/'
 languageCode = 'en-us'
 title = 'letsflutter.in'
 theme = 'congo'
